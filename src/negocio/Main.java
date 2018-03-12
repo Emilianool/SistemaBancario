@@ -71,7 +71,7 @@ public class Main {
 			// Desativar um cliente
 			case 4:
 				
-				System.out.print("Digite o ID do cliente: ");
+				System.out.print("Digite o ID do CLIENTE: ");
 				int idCliente3 = sc.nextInt();
 				Cliente cliente3 = gerClientes.pesquisaCliente(idCliente3);
 				
